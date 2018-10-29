@@ -48,7 +48,7 @@ class About extends Component {
 
             <Grid.Column style={{overflow: 'hidden'}}>
               <Parallax offsetXMax={-10} offsetXMin={10}>
-                <img src="centerleft.jpg" />
+                <img src="https://github.com/LawrenceLin690/react-personal-website/blob/master/public/centerleft.JPG?raw=true" />
               </Parallax>
             </Grid.Column>
           </Grid.Row>
