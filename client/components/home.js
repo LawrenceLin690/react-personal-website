@@ -20,7 +20,7 @@ class Home extends Component {
             <Grid>
               <Grid.Row id="home">
                 <span className="homePage">
-                  <Parallax offsetXMax={-105} offsetXMin={235}>
+                  <Parallax offsetXMax={-125} offsetXMin={235}>
                     LAW+
                   </Parallax>
                 </span>
@@ -30,7 +30,7 @@ class Home extends Component {
                   </Parallax>
                 </span>
                 <span className="homePage">
-                  <Parallax offsetXMin={-100} offsetXMax={150}>
+                  <Parallax offsetXMin={-100} offsetXMax={170}>
                     +ELIN<span className="period">.</span>
                   </Parallax>
                 </span>
@@ -56,7 +56,7 @@ class Home extends Component {
             <Grid>
               <Grid.Row id="home">
                 <span className="homePage">
-                  <Parallax offsetXMax={-40} offsetXMin={105}>
+                  <Parallax offsetXMax={-40} offsetXMin={125}>
                     LAW+
                   </Parallax>
                 </span>
