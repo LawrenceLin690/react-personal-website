@@ -4,13 +4,9 @@
  * having to figure out which file they belong to!
  */
 export {default as Navbar} from './navbar'
-export {default as List} from './list'
-export {default as Word} from './word'
-export {default as TwitterGraph} from './twitterGraph'
+export {default as Menubar} from './menubar'
+export {default as Contactbar} from './contactbar'
 export {default as Home} from './home'
-export {default as TwitterSection} from './twitterSection'
-export {default as SongSection} from './songSection'
-export {default as CreateWord} from './createWord'
-export {default as WordForm} from './wordForm'
-export {default as SearchBar} from './searchBar'
-export {default as NotFound} from './notFound'
+export {default as About} from './about'
+export {default as Projects} from './projects'
+export {default as ScrollButton} from './scrollbutton'
