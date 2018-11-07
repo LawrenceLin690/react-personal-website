@@ -17,9 +17,8 @@ class About extends Component {
                 <div className="aboutDesc">
                   I'm a Fullstack Academy alumni. I made the change to software
                   development because I wanted to have a bigger, more hands on
-                  approach in the problem solving process.. I'm interested in
-                  the entire full-stack with an emphasis on clear code and
-                  design.
+                  approach in the problem solving process. I'm interested in the
+                  entire full-stack with an emphasis on clear code and design.
                 </div>
                 <br />
                 <div>Contact me at:</div>
